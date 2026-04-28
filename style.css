@@ -54,7 +54,7 @@ body{
 /* HERO */
 .hero{
   height:520px;
-  background:url("./image/dd.jpg") no-repeat right center/cover;
+  background:url("dd.jpg") no-repeat right center/cover;
   display:flex;
   align-items:center;
   padding:left 80px;
